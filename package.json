@@ -10,11 +10,23 @@
     "type": "git",
     "url": "git+https://github.com/reykjavikingur/squirrelbot.git"
   },
-  "keywords": ["web", "crawler", "html", "css", "selector", "cli", "cache"],
+  "keywords": [
+    "web",
+    "crawler",
+    "html",
+    "css",
+    "selector",
+    "cli",
+    "cache"
+  ],
   "author": "Andrew Strader",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/reykjavikingur/squirrelbot/issues"
   },
-  "homepage": "https://github.com/reykjavikingur/squirrelbot#readme"
+  "homepage": "https://github.com/reykjavikingur/squirrelbot#readme",
+  "dependencies": {
+    "cheerio-crawler": "^1.1.0",
+    "md5": "^2.2.1"
+  }
 }
