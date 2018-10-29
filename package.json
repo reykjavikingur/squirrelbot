@@ -1,0 +1,20 @@
+{
+  "name": "squirrelbot",
+  "version": "1.0.0",
+  "description": "CLI utility to crawl web servers, cache HTML documents, and query them with CSS selectors.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reykjavikingur/squirrelbot.git"
+  },
+  "keywords": ["web", "crawler", "html", "css", "selector", "cli", "cache"],
+  "author": "Andrew Strader",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reykjavikingur/squirrelbot/issues"
+  },
+  "homepage": "https://github.com/reykjavikingur/squirrelbot#readme"
+}
